@@ -6,6 +6,7 @@ body{
     text-align: left;
     width: 54%;
     margin: auto;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 header{
@@ -43,15 +44,29 @@ header{
 }
 
 table{
-    background-color: lightblue;
     margin-bottom: 15px;
-    text-align: start;
+    border-collapse: collapse;
+}
+
+#intestation_row{
+    background-color: #4ea0ff;
+}
+
+.right{
+    width: 33%;
+}
+
+#description_row{
+    background-color: lightblue;
 }
 
 th{
     color: white;
 }
 
+footer{
+    margin-top: 30px;
+}
 #final_comment{
     color: grey;
 }
