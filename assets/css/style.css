@@ -38,3 +38,16 @@ header{
     margin-bottom: 10px;
 }
 
+.text-color{
+    background-color: yellow;
+}
+
+table{
+    background-color: lightblue;
+    margin-bottom: 15px;
+    text-align: start;
+}
+
+th{
+    color: white;
+}
