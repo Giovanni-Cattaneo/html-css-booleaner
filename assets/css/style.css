@@ -11,6 +11,7 @@ body{
 
 header{
     background-color: #4ea0ff;
+    height: 50%;
 }
 
 #title{
@@ -66,6 +67,10 @@ th{
 
 footer{
     margin-top: 30px;
+}
+
+#container{
+    background-image:url('');
 }
 #final_comment{
     color: grey;
