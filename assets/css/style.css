@@ -24,6 +24,10 @@ header{
     color: lightgray;
 }
 
+ul{
+    padding-left: 1rem;
+}
+
 #booleaner{
     color: #4ea0ff;
 }
